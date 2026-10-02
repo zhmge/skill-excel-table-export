@@ -1,0 +1,3 @@
+# 仓库内一律 LF 入库
+* text=auto eol=lf
+*.md text eol=lf
